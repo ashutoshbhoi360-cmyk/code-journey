@@ -1,9 +1,9 @@
-# include <stdio.h>
+#include <stdio.h>
 int main() {
-    float h, b, a;
-    printf("enter the hight and base");
-    scanf("%f, %f", &h, &b);
-    a = (h * b);
-printf("area = %g", a);
+    float l, b, area;
+    printf("Enter the length and breadth: ");
+    scanf("%f, %f", &l, &b);
+    area = l * b;
+    printf("Area = %g\n", area);
     return 0;
 }
