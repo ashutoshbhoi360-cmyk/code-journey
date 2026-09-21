@@ -1,14 +1,16 @@
-# Code Journey
+# Fun & Practice
 
-My coding journey — practice programs, fun experiments, and open source projects, all in one place.
+My fun and practice code — learning experiments and course exercises, organized by language.
 
 ## Structure
 
-- **Fun & Practice/** — learning and fun code, organized by language
-  - **C_Fun & Practice/** — C programs (course practice + experiments)
-- **Open Source Projects/** — my open source projects (each project gets its own subfolder)
+- **C_Fun & Practice/** — C programs (course practice + experiments)
+
+More languages will be added as I learn them.
 
 ## Journey so far
 
-- Sep 2026: Started C (CodeWithHarry course) — first program: right triangle area calculator ✓
+- Sep 2026: Started C (CodeWithHarry course) — geometry, temperature and interest calculators so far
 - Next: finish C, then DSA
+
+Note: my open source projects live in their own separate repos (one repo per project).
