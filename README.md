@@ -2,9 +2,11 @@
 
 My fun and practice code — learning experiments and course exercises, organized by language.
 
+Files are numbered in the order I made them, so you can follow my journey from the very first program.
+
 ## Structure
 
-- **C_Fun & Practice/** — C programs (course practice + experiments)
+- **C_Fun & Practice/** — C programs (course practice + experiments), numbered oldest to newest
 
 More languages will be added as I learn them.
 
