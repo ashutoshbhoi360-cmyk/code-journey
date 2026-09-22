@@ -7,14 +7,14 @@ int main() {
     scanf("%d, %d", &dd, &dr);
     if (dr != 0) {
         if (dd%dr == 0) {
-            printf("yes, %d is divisible by %d", dd, dr);
+            printf("yes, %d is divisible by %d\n", dd, dr);
         }
         else {
-            printf("no, %d is not divisible by %d", dd, dr);
+            printf("no, %d is not divisible by %d\n", dd, dr);
         }
     }
     else {
-        printf("error, divisor can't be 0");
+        printf("error, divisor can't be 0\n");
     }
     return 0;
 }
