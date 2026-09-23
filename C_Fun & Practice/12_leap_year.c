@@ -12,7 +12,7 @@ int main() {
                 else {
                     printf("%d is a normal year\n", y);
                 }
-                }
+            }
             else {
                 printf("%d is a leap year\n", y);
             }
