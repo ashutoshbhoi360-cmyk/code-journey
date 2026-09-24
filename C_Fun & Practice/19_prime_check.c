@@ -17,7 +17,7 @@
             printf("the entered number is a prime number\n");
         }
         else {
-            printf("this is a special number\n");
+            printf("this is neither a prime nor a composite\n");
         }
         if (n > 2 && is_prime != 0) {
             printf("this is a prime number\n");
